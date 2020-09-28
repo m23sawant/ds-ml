@@ -2,7 +2,7 @@
 
 Data@ANZ is about mining and linking datasets to develop stories that matter and challenge the status quo, to deliver on ANZ’s purpose “to shape a world where people and communities thrive”.
 
-![](anz_cerificate.jpg "Certificate")
+![](https://github.com/mayuresh23sawant/ds-ml/blob/master/DATA%40ANZ/anz_certificate.jpg "Certificate")
 
 ## Task 1: Exploratory Data Analysis
 Segment the dataset and draw unique insights, including visualisation of the transaction volume and assessing the effect of any outliers.
